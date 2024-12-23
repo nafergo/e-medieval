@@ -1,10 +1,55 @@
-.masthead__menu-item {  font-family: "Raleway", serif;text-transform: uppercase; font-size: 0.8em;}
+.masthead__menu-item {font-family: "Raleway", serif;text-transform: uppercase; font-size: 0.7em;}
 
-.archive-thumbnail-img {max-width: 150px; }
+.taxonomy__section .archive-thumbnail-img {max-width: 200px; margin-bottom: 1em;}
 
-.archive-thumbnail-div-1 {float: left; padding-right: 2em;}
-.archive-thumbnail-div-2 a {text-decoration: none;}
+.taxonomy__section .archive-thumbnail-div-1 {float: left; padding-right: 2em;}
+.taxonomy__section .archive-thumbnail-div-2 a {text-decoration: none;}
+.taxonomy__section .archive-thumbnail-main {width: 100%;  float: left; margin-top: 1em;}
 
-.archive-thumbnail-main {width: 100%;  float: left; margin-top: 1em;}
+.archive__item-title a {text-decoration: none;
+  font-family: "Raleway",-apple-system,BlinkMacSystemFont,"Roboto","Segoe UI","Helvetica Neue","Lucida Grande",Arial,sans-serif;
+  font-weight: 900;
+  font-size: 1em;
+}
+
+.taxonomy__section .archive__subtitle {
+  text-transform: uppercase;
+}
+
+button.search__toggle {color: #222831; opacity: 0.5;}
+button.search__toggle:hover {color: #222831;opacity: 1;}
+
+.search-content.is--visible {background-color: rgba(0, 0, 0, 0.05);}
 
 button:focus, a:focus {outline: 5px none #821917;}
+
+.post-author, .post-editor, .post-translator, .pub-date, .last-update-date, .doi{font-size: 0.8em;}
+.post-author a, .post-editor a, .post-translator a {text-decoration: none;} 
+.post-label{text-transform: uppercase;}
+
+#searchmain{padding: 1% 1% 15% 1%; text-align: center; }
+
+.searchmain{
+height: 80px;
+  border-radius: 50px;
+  font-size: 1.25rem;
+  font-style: normal;
+  padding-left: 36px;
+  box-shadow: 0 10px 35px rgba(0,0,0,0.12);
+  width: 50%;
+}
+
+.searchmain:focus {border-color: #821917 !important;}
+
+  .social-media i{color: #ccc !important;}
+  .social-media i:hover{color: #fff !important;}
+
+  .page__footer-copyright a{color: #ccc !important;}
+  .page__footer-copyright a:hover{text-decoration: none; color: #fff !important;}
+
+  .cc_license {font-size: 0.8em;}
+
+  .sidebar_meta {font-size: 0.8em;}
+  .sidebar_meta strong {text-transform: uppercase; display: block;}
+
+  .home-browse{font-size: 1em;color: #393e46;}

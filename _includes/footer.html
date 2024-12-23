@@ -1,8 +1,13 @@
 <div class="page__footer-follow">
   <ul class="social-icons">
-    {% if site.data.ui-text[site.locale].follow_label %}
+<!--    {% if site.data.ui-text[site.locale].follow_label %}
       <li><strong>{{ site.data.ui-text[site.locale].follow_label }}</strong></li>
     {% endif %}
+-->
+<div class="social-media">
+  <a aria-label="Facebook" href="https://www.facebook.com/InstitutoEstudosMedievais/" target="_blank"><i class="fa-brands fa-facebook-f"></i></a>
+<a aria-label="YouTube" href="https://www.youtube.com/user/IEMedievais" target="_blank"><i class="fa-brands fa-youtube"></i></a>
+</div>
 
     {% if site.footer.links %}
       {% for link in site.footer.links %}

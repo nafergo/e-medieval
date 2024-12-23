@@ -11,14 +11,19 @@
       {% if s.text %}{{ s.text | markdownify }}{% endif %}
       {% if s.nav %}{% include nav_list nav=s.nav %}{% endif %} 
 
-      {% if s.author %}<span class="post-author">Autor <a href="{{ s.author-url }}">{{ s.author }}</a></span>{% endif %}
-      {% if s.editor %}<span class="post-editor">Editor <a href="{{ s.editor-url }}">{{ s.editor }}</a></span>{% endif %}
-      {% if s.translator %}<span class="post-translator">Tradução <a href="{{ s.translator-url }}">{{ s.translator }}</a></span>{% endif %}
-      {% if s.pub-date %}<span class="pub-date">Publicado em {{ s.pub-date }}</span>{% endif %}
-      {% if s.last-update-date %}<span class="last-update-date">Atualizado em {{ s.last-update-date }}</span>{% endif %}
+      {% if s.author %}<span class="post-author"><span class="post-label">Autor</span><br> <a href="{{ s.author-url }}">{{ s.author }}</a></span>{% endif %}
+      {% if s.editor %}<span class="post-editor"><span class="post-label">Editor</span><br> <a href="{{ s.editor-url }}">{{ s.editor }}</a></span>{% endif %}
+      {% if s.translator %}<span class="post-translator"><span class="post-label">Tradução</span> <br> <a href="{{ s.translator-url }}">{{ s.translator }}</a></span>{% endif %}
+      {% if s.pub-date %} <span class="pub-date"><span class="post-label">Publicado em</span><br> {{ s.pub-date }}</span>{% endif %}
+      {% if s.last-update-date %}<span class="last-update-date"><span class="post-label">Última atualização</span><br> {{ s.last-update-date }}</span>{% endif %}
       {% if s.doi %}<span class="doi">DOI <a href="{{ s.doi-url }}">{{ s.doi }}</a></span>{% endif %}
-      
+
     {% endfor %}
+
+    <div class="sidebar_meta">
+      {% include page__taxonomy.html %}
+    </div>
+
     {% if page.sidebar.nav %}
       {% include nav_list nav=page.sidebar.nav %}
     {% endif %}

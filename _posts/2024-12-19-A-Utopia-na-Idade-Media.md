@@ -16,11 +16,11 @@ tags:
 excerpt: O conceito filosófico e ideológico de Utopia nos tempos medievais
 
 header:
-  overlay_image: /assets/images/2024-10-30-ribeiro-002.jpg
+  overlay_image: /assets/images/none.jpg
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
   caption: "Túmulo de D. Teresa"
 
-thumbnail-img: /assets/images/2024-10-30-ribeiro-001-thumb.jpg
+thumbnail-img: /assets/images/none-thumb.jpg
 
 author_profile: false
 read_time: false
@@ -47,10 +47,15 @@ Durante muito tempo, a historiografia recusou falar em utopia para a Idade Médi
 
 ## Saber+
 De um lado, é simplista reduzir o surgimento de um sentimento, ideia, fenómeno ou coisa apenas ao seu nome. Por exemplo, é preciso reconhecer que Ulisses sentiu “nostalgia” cerca de 25 séculos antes de esta palavra ter sido criada (1688). Ou que *feudalitas* foi termo cunhado (c. 1280) mais de dois séculos depois desse tipo de formação social já existir. De outro lado, a força da crença no Além não impediu a imaginação de outros espaços perfeitos: na Idade Média, a utopia é obra humana que não dispensa o auxílio divino. A comunidade caçadora de Robin Hood teve sucesso porque seu líder "serviu Nossa Senhora por muito tempo", sendo protegido por ela, conta uma balada cujas origens remontam a meados do século XIII (Robin Hood and the Monk, 1976: 118). 
+
 Ao forjar a palavra utopia, Tomás More latinizou o grego *outopos*, literalmente o “não-lugar”, para indicar local inexistente na realidade concreta. Daí ele afirmar que há “na república utopiana muitas coisas que eu desejaria ver nas nossas terras, coisas que desejo, mais do que espero” (More, 1978: 162). Dito de outro modo, utopia é – qualquer que seja o nome que se lhe dê – produto de uma imaginação crítica, é sonho colectivo de uma sociedade futura que supere as deficiências do presente. Mas como estas são sentidas e vividas diferentemente conforme cada época, grupo social ou comunidade, os traços definidores da idealização não são sempre os mesmos. 
+
 Caso da igualdade entre os humanos, hoje considerada um dado evidente, porém não na Idade Média. É verdade que certos movimentos utópicos de então defenderam a ideia. A revolta campesina inglesa de 1381 formulou para tanto a célebre questão: "Quando Adão cavava e Eva fiava, onde estava o nobre?" (Walshingham, 1874: 321). De maneira geral, contudo, as sociedades eram consideradas perfeitas quando respeitavam as diferenças de natura entre os homens. A desigualdade não impossibilitaria a paz social, seria mesmo sua pré-condição por estabelecer um equilíbrio complementar entre seres de diferentes condições. Como mostra Dante Alighieri, até as sociedades do Outro Mundo, tanto a infernal como a celeste, são hierárquicas.  
+
 No mundo terreno, é o que propuseram, entre outras, duas utopias, contudo opostas, a gregoriana e a imperial. Pela primeira, a Igreja concebia uma sociedade cristã universal, tendo o papa à frente de uma vasta hierarquia que deveria definir o pensamento e o comportamento de todo o “rebanho de Cristo”. Essa utopia teocrática, conhecida como Reforma Gregoriana (c. 1050-1216), buscou internamente purificar a Igreja e externamente liberá-la das pressões laicas. Seguindo um mecanismo próprio a toda utopia (Seibt, 2001), a reforma partiu de um modelo do passado projectado no futuro, no caso, reinstalar a forma *Ecclesiae primitivae*, recuperar a libertas *Ecclesiae*. 
+
 Isso chocou-se, porém, com as pretensões do outro suposto herdeiro da Roma antiga, o imperador romano-germânico. Para seus defensores – como Dante Alighieri na *Monarchia* (c. 1314) – apenas o imperador poderia estabelecer a paz social e propiciar a prosperidade para toda a Cristandade. Ao lado de tratados, leis e bulas que foram ao longo do tempo construindo a ideia utópica imperial, sua mais popular síntese foi a epístola de Preste João. Forjada por volta de 1164, ela pretendeu servir de propaganda ao império ocidental ao descrever o esplendor, a riqueza e a superioridade moral de um imaginário império oriental dirigido por um soberano que reunia em si os poderes temporais e religiosos. 
+
 Como em qualquer época, também na Idade Média o sonho de uma sociedade terrena ideal mostrou seus limites. O mundo cristão deveria ser de caridade e renúncia, mas sempre que esse comportamento se tornou dominante em certos grupos sociais, foi interpretado por outros como arrogância, soberba. Por exemplo, a utopia monástica propunha o “desprezo pelo mundo” como modo de ser e viver, todavia quando certos grupos laicos aspiravam a levar uma vida semelhante, eram taxados de heréticos. 
 
 

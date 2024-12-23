@@ -1,0 +1,103 @@
+---
+---
+
+<!doctype html>
+{% include copyright.html %}
+<html lang="{{ site.locale | replace: "_", "-" | default: "en" }}" class="no-js">
+  <head>
+    {% include head.html %}
+    {% include head/custom.html %}
+  </head>
+
+  <body class="layout--{{ page.layout | default: layout.layout }}{% if page.classes or layout.classes %}{{ page.classes | default: layout.classes | join: ' ' | prepend: ' ' }}{% endif %}" dir="{% if site.rtl %}rtl{% else %}ltr{% endif %}">
+    {% include_cached skip-links.html %}
+    {% include_cached masthead.html %}
+
+    <div class="initial-content">
+      {{ content }}
+      {% include after-content.html %}
+    </div>
+
+    {% if site.search == true %}
+      <div class="search-content">
+        {% include_cached search/search_form.html %}
+      </div>
+    {% endif %}
+
+
+    <div id="main" role="main">
+      <div id="searchmain">
+      <p id="iem-title">E-Enciclopédia Medieval</p>
+      <p>O conhecimento científico sobre a civilização medieval ao alcance de todos.</p>
+      
+        {%- assign search_provider = site.search_provider | default: "lunr" -%}
+        {%- case search_provider -%}
+          {%- when "lunr" -%}
+            <input type="text" id="search" class="search-input searchmain" placeholder="{{ site.data.ui-text[site.locale].search_placeholder_text | default: 'Pesquisar...' }}" />
+            <div id="results" class="results"></div>
+          {%- when "google" -%}
+            <form onsubmit="return googleCustomSearchExecute();" id="cse-search-box-form-id">
+            <input type="text" id="cse-search-input-box-id" class="search-input" placeholder="{{ site.data.ui-text[site.locale].search_placeholder_text | default: 'Enter your search term...' }}" />
+            </form>
+            <div id="results" class="results">
+              <gcse:searchresults-only></gcse:searchresults-only>
+            </div>
+          {%- when "algolia" -%}
+            <div class="search-searchbar"></div>
+            <div class="search-hits"></div>
+        {%- endcase -%}
+      </div>
+      
+
+
+
+      <h3 class="home-browse">Categorias</h3>
+      <p >Explore as categorias</p>
+      <div>...</div>
+
+      
+
+          <h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>
+      
+            {% if paginator %}
+              {% assign posts = paginator.posts %}
+            {% else %}
+              {% assign posts = site.posts %}
+            {% endif %}
+            
+            {% assign entries_layout = page.entries_layout | default: 'grid' %}
+            <div class="entries-{{ entries_layout }}">
+              {% include documents-collection.html entries=posts type=entries_layout %}
+            </div>
+            
+            {% include paginator.html %}
+      
+          </div>
+      
+
+
+
+
+
+
+
+
+    <div id="footer" class="page__footer">
+      <footer>
+        {% include footer/custom.html %}
+        {% include_cached footer.html %}
+      </footer>
+    </div>
+
+    {% include scripts.html %}
+
+  </body>
+</html>
+
+
+
+
+
+
+
+

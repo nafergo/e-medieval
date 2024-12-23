@@ -16,11 +16,11 @@ tags:
 excerpt: Pensamento mítico e imaginário medieval
 
 header:
-  overlay_image: /assets/images/2024-12-19-júnior-001.jpg
+  overlay_image: /assets/images/2024-12-19-junior-001.jpg
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
   caption: "Túmulo de D. Teresa"
 
-thumbnail-img: /assets/images/2024-12-19-júnior-001-thumb.jpg
+thumbnail-img: /assets/images/2024-12-19-junior-001-thumb.jpg
 
 author_profile: false
 read_time: false
@@ -49,11 +49,17 @@ O pensamento mítico apresenta sob forma narrativa as grandes questões existenc
 
 ## Saber+
 A força do mito era tal, que mesmo quem dizia adoptar postura antimítica não conseguia escapar a ele, caso de Santo Agostinho. Para este, “todo homem é Adão” (Agostinho, 1955: 778), as alegrias e os dramas dos *primi* parentes repetiam-se nos seus descendentes, isto é, na humanidade inteira. Mesmo Cristo, enquanto homem, provinha de Adão. No sentido inverso, Adão, perfeito antes do pecado, ressurgiu com Cristo, o *novissimus Adam*, explica o apóstolo (1 Cor. 15: 45). Simetricamente, Eva, que comera o fruto maldito, foi resgatada por Maria e o fruto bendito de seu ventre.  
+
 Assim, conhecer a história de Adão e Eva era nela se reconhecer. Reflectir sobre ela possibilitava compreender as vicissitudes da vida. Como o texto bíblico tratou sumariamente dessa história, a natural curiosidade por ela gerou a respeito vários textos apócrifos, muitas referências literárias, inúmeros comentários teológicos e uma vasta iconografia, que na Idade Média soma mais de três mil imagens em todos os suportes, pedra, metal, madeira, osso, parede, pergaminho, papel.
+
 As referências textuais e imagéticas a Adão e Eva são boas janelas para observar a história social medieval. Tomemos como exemplo apenas dois pontos, a condição feminina e a valoração do trabalho. A misoginia da Europa medieval decorreu das actividades de seus estratos dirigentes, o clero celibatário e a nobreza guerreira, mas sobretudo do facto de a Bíblia atribuir à mulher a culpa pela expulsão do Éden. O difundido (107 manuscritos) apócrifo *Vita Adae et Evae* insiste nisso, ao fazer Eva admitir por quatro vezes ter sido a responsável pelos males humanos. Tal episódio foi relembrado e comentado por sermões, esculturas e pinturas. Significativamente, a cena do Pecado Original – a mais representada da iconografia adâmica – na maior parte das vezes figura Eva mais próxima da serpente do que Adão. Ou, mensagem mais directa ainda, ela é que entrega o fruto proibido ao homem.   
+
 Contudo, a partir do século XII – não por acaso contemporaneamente ao progresso do culto à Virgem – algumas imagens adotam postura mais igualitária entre os sexos. Um capitel do mosteiro de São Pedro de Roda e um relevo de Saint-Martin de Besse mostram a serpente virada para Adão. Mais expressivo, um modilhão de Guarbecque representa Adão e Eva lado a lado, segurando juntos a mesma fruta proibida. Uma iluminura do *Passionário de Weissenau* figura Adão recebendo o fruto proibido de Eva e, ao mesmo tempo, de forma independente, colhendo um segundo fruto diretamente da Árvore Proibida.  
+
 Em relação ao segundo ponto, não é preciso recordar que o texto bíblico faz do trabalho uma punição: “parirás teus filhos com dor (…) comerás o pão com o suor do teu rosto” (Gn 3: 16.19). Este texto foi, por séculos, transposto em imagem. Algumas vezes, também Eva foi figurada participando das tarefas agrícolas, caso de uma placa de marfim da catedral de Salerno. Uma iluminura bíblica francesa (hoje em Nova York), mostra as crianças envolvidas do esforço familiar, Abel recolhendo gravetos, Caim carregando um feixe deles. 
+
 A partir do século XI, porém, as transformações económicas foram relegando a segundo plano – no plano imaginário – o caráter penoso do trabalho. Baseado na *Vita Adae et Evae* (2012: 581), um relevo da porta da catedral alemã de Hildesheim mostra um anjo a ensinar a Adão como manejar a enxada. Uma iluminura inglesa do *Pentateuco de Aelfric* e um afresco espanhol de Sigena são mais incisivos, neles o próprio anjo utiliza o instrumento, instigando os humanos a copiá-lo. Em medalhão da Sainte-Chapelle de Paris (abaixo), é a própria Divindade que entrega a ferramenta ao homem. Nada estranho, porquanto desde o século XII Deus foi definido como um trabalhador, “o artífice (*artifex*) que criou o homem com argila” (*Carmina Burana*, 1987: 696).
+
 Outros fenómenos sociais, como o casamento, a peregrinação ou a violência, também encontravam suas raízes na história de Adão e Eva, verdadeiro espelho para todos os medievais. 
 
 ## Bibliografia
