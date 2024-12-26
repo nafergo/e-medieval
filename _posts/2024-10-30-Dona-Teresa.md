@@ -16,8 +16,8 @@ excerpt: Era infanta do reino de Leão e condessa do Condado Portucalense, gover
 
 header:
   overlay_image: /assets/images/2024-10-30-ribeiro-002.jpg
-  overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-  caption: "Túmulo de D. Teresa"
+  overlay_filter: 0.5 
+  caption: Fotografia de [**Husond**](https://pt.wikipedia.org/wiki/Ficheiro:Silves.JPG){:target="_blank"}
 
 thumbnail-img: /assets/images/2024-10-30-ribeiro-001-thumb.jpg
 
@@ -45,12 +45,19 @@ related: "Castelo de Guimarães"
 ---
 ## Introdução
 Teresa de Leão, Condessa de Portugal (em galego-português: Tareyia, Tarasia ou Tareja de Portugal, mais conhecida em Portugal apenas por Dona Teresa; c. 1080 — Mosteiro de Montederramo, 11 de novembro de 1130) foi Condessa de Portugal de 1112 a 1128.
+
 Era infanta do reino de Leão e condessa do Condado Portucalense, governando como rainha. Esposa de Henrique de Borgonha, conde de Portucale e mãe de D. Afonso Henriques, fundador do reino de Portugal e primeiro rei de Portugal (De Azevedo, 1958).
 
 <figure>
     <a href="/assets/images/2024-10-30-ribeiro-001.jpg"><img src="/assets/images/2024-10-30-ribeiro-001.jpg"></a>
     <figcaption>Túmulo</figcaption>        
 </figure>
+
+<figure class="align-center half">
+    <a href="/assets/images/2024-12-19-silva.jpg"><img src="/assets/images/2024-12-19-silva.jpg"></a>
+    <figcaption>Vista de Silves | Créditos da imagem: <a href="https://pt.wikipedia.org/wiki/Ficheiro:Silves.JPG">Husond</a></figcaption>        
+</figure>
+
 
 
 ## Desenvolvimento

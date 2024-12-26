@@ -17,7 +17,7 @@ excerpt: Reino de taifa no sudoeste do Ġarb al-Andalus, durante o século XI.
 
 header:
   overlay_image: /assets/images/2024-12-19-silva.jpg
-  overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
+  overlay_filter: 0.5
   caption: Fotografia de [**Husond**](https://pt.wikipedia.org/wiki/Ficheiro:Silves.JPG){:target="_blank"}
 
 thumbnail-img: /assets/images/2024-12-19-silva-thumb.jpg
